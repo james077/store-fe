@@ -1,0 +1,14 @@
+.container {
+    padding-top: 5rem;
+  }
+.card-body{
+  font-size: 2vh;
+}
+
+h5{
+  font-size: 3vh;
+}
+
+a{
+  align-self: center;
+}
